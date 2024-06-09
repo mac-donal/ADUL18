@@ -166,12 +166,12 @@
 
 <header>
     <h1></h1>
-    <a href="https://www.futbolparaguayotv.xyz/"><img src="https://3.bp.blogspot.com/-swALdaKJT4k/YFYW0p1MkMI/AAAAAAAABkc/VJkuL3kmJMgVx5jODsIN95jvvrKlQ154wCK4BGAYYCw/s1600/Sin%2Bt%25C3%25ADtulo-1.png" alt="Logo de Fútbol Play TV" width="200" height="60"></a>
+    <a href="" alt="Logo de Fútbol Play TV" width="200" height="60"></a>
 </header>
 
 <div class="container">
     <center>
-        <img src="https://futbollibreonline.pe/img/star-plus.png" alt="Star+" width="250" height="100" style="margin-bottom: 20px;"> 
+        <img src="" alt="Star+" width="250" height="100" style="margin-bottom: 20px;"> 
     </center>
     <h2 class="display-5 text-center">Elige el evento:</h2>
     <div id="eventos" class="row">
