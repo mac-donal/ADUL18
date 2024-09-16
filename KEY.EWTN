@@ -1,16 +1,20 @@
 {
   "keys": [
     {
-      "keyid": "693c14512fe754679776b9352fa84fa2",
-      "key": "5c04eb44db6dfabcbb73be28408e831d"
+      "kty": "oct",
+      "k": "in26QbrX0PKp6+zT6vnC/w",
+      "kid": "R7nMtwxcUS+RlXEtEZI99g"
     },
     {
-      "keyid": "47b9ccb70c5c512f9195712d11923df6",
-      "key": "8a7dba41bad7d0f2a9ebecd3eaf9c2ff"
+      "kty": "oct",
+      "k": "XATrRNtt+ry7c74oQI6DHQ",
+      "kid": "aTwUUS/nVGeXdrk1L6hPog"
     },
     {
-      "keyid": "e97732b12ed754588cd3e01e3e6ea7ee",
-      "key": "494c340693c70e21b4490c2ec6430627"
+      "kty": "oct",
+      "k": "SUw0BpPHDiG0SQwuxkMGJw",
+      "kid": "6XcysS7XVFiM0+AePm6n7g"
     }
-  ]
+  ],
+  "type": "temporary"
 }
