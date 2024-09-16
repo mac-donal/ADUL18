@@ -1,8 +1,16 @@
 {
-  "url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php",
-  "keys": {
-    "693c14512fe754679776b9352fa84fa2": "5c04eb44db6dfabcbb73be28408e831d",
-    "47b9ccb70c5c512f9195712d11923df6": "8a7dba41bad7d0f2a9ebecd3eaf9c2ff",
-    "e97732b12ed754588cd3e01e3e6ea7ee": "494c340693c70e21b4490c2ec6430627"
-  }
+  "keys": [
+    {
+      "keyid": "693c14512fe754679776b9352fa84fa2",
+      "key": "5c04eb44db6dfabcbb73be28408e831d"
+    },
+    {
+      "keyid": "47b9ccb70c5c512f9195712d11923df6",
+      "key": "8a7dba41bad7d0f2a9ebecd3eaf9c2ff"
+    },
+    {
+      "keyid": "e97732b12ed754588cd3e01e3e6ea7ee",
+      "key": "494c340693c70e21b4490c2ec6430627"
+    }
+  ]
 }
